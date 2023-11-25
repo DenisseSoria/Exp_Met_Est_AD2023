@@ -1,5 +1,9 @@
-# Exp Met Est AD2023
+# Experimentación y Métodos Estadísticos AD2023 📓
 Código desarrollado durante el curso de Experimentación y Métodos Estadísticos
+
+# Ing. Denisse Alejandra Soria Lozano
+
+# Producto Integrador de Aprendizaje
 
 ## Sesión 2.- 15/08/2023 :calendar:
 Objetivos 💻
